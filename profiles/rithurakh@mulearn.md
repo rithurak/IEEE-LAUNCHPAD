@@ -1,8 +1,8 @@
 # Rithu Rakh 
 
-### Enthusiastic and dedicated Electrical Engineering graduate with a strong focus on power electronics and renewable energy. Proficient in designing and implementing electrical circuits, with a keen interest in electric vehicles and energy management. Seeking an entry-level position to leverage academic knowledge and internship experience to contribute to an innovative engineering team. Committed to continuous learning and professional development in the field of electrical engineering. Also a collaborative team player with excellent leadership qualities and communication skills.
+### About me
 
-> write about your self .................. (minimum 200 Characters)
+> Enthusiastic and dedicated Electrical Engineering graduate with a strong focus on power electronics and renewable energy. Proficient in designing and implementing electrical circuits, with a keen interest in electric vehicles and energy management. Seeking an entry-level position to leverage academic knowledge and internship experience to contribute to an innovative engineering team. Committed to continuous learning and professional development in the field of electrical engineering. Also a collaborative team player with excellent leadership qualities and communication skills.
 
 
 ## Portfolio Highlights
